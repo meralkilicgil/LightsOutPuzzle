@@ -1,0 +1,3 @@
+Because some of test cases contains large data, I implement the test class to be worked as multi-threading.
+Running PuzzleSolverTest will run all test cases in parallel through reading test cases from txt file which are provided.
+The test cases are defined in resources/cases folder.
